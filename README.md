@@ -1,2 +1,2 @@
 # econometrics
-# play with SciPy
+play with SciPy
